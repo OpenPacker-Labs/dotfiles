@@ -1,0 +1,8 @@
+{
+  "user": "vscode",
+  "build": {
+    "dockerfile": "cursor/Dockerfile",
+    "context": "."
+  },
+  "install": "bash install.sh"
+}
